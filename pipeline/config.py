@@ -1,0 +1,11 @@
+#candidate discovery
+CANDIDATE_LENGTH = 50 #12
+CANDIDATE_OVERLAP = 0.5
+
+#highlights selection
+MIN_IMPORTANCE_SCORE = 7.5
+MAX_HIGHLIGHTS = 8
+
+#final short limits
+MIN_SHORT_LENGTH = 40
+MAX_SHORT_LENGTH = 60

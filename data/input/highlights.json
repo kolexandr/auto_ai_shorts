@@ -1,0 +1,50 @@
+[
+  {
+    "start": 1080.23,
+    "end": 1120.23,
+    "importance": 6.75,
+    "reason": "The moment is high in insight (7) as it highlights the growth and development of the company, but lower in emotion (4) as it's a relatively dry discussion about company history. Novelty is low (2) as it's not a new or surprising idea. Quote-worthiness is moderate (6) because some quotes from this moment could be interesting, but they're not particularly memorable or impactful."
+  },
+  {
+    "start": 205.85000000000002,
+    "end": 245.85000000000002,
+    "importance": 6.5,
+    "reason": "The moment provides some insight into Mark Zuckerberg's thought process and decision-making as a young entrepreneur, but it's not particularly emotionally resonant or novel."
+  },
+  {
+    "start": 330.36,
+    "end": 370.36,
+    "importance": 6.5,
+    "reason": "The moment has moderate insight (7) into the challenges faced by Mark Zuckerberg and Facebook's early history, but lower emotion (5) as it's more of a matter-of-fact recollection. It also lacks novelty (3) since we're familiar with the story of Yahoo's offer. The quote is somewhat memorable (8), but not extremely quotable."
+  },
+  {
+    "start": 430.21,
+    "end": 470.21,
+    "importance": 6.5,
+    "reason": "The moment has some insight (7) into the founder's thought process, but is relatively low on emotion (4), novelty (2), and quote-worthiness (5)"
+  },
+  {
+    "start": 105.75999999999999,
+    "end": 145.76,
+    "importance": 6.25,
+    "reason": "Interesting insight into the motivation behind Facebook's creation, but lacks strong emotion and novelty"
+  },
+  {
+    "start": 1380.5900000000001,
+    "end": 1420.5900000000001,
+    "importance": 6.25,
+    "reason": "The moment provides insight into the founders' mindset and approach to building Facebook, but it lacks emotion and novelty. The quote is interesting, but not particularly memorable."
+  },
+  {
+    "start": 130.51,
+    "end": 170.51,
+    "importance": 6,
+    "reason": "The moment provides some insight into Mark Zuckerberg's thought process and vision, but it's not particularly emotionally resonant or novel. The quote about building a community for the world is somewhat noteworthy."
+  },
+  {
+    "start": 281.3,
+    "end": 321.3,
+    "importance": 6,
+    "reason": "The moment provides some insight into the importance of solving a problem and driving social change, but it's not particularly emotional or novel. The quote is somewhat memorable, but not necessarily quoteworthy."
+  }
+]

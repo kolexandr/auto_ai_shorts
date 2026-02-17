@@ -1,0 +1,136 @@
+[Script Info]
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 607
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,30,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.11,0:00:00.21,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} AT
+Dialogue: 0,0:00:00.21,0:00:00.41,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} HARVARD
+Dialogue: 0,0:00:00.41,0:00:01.05,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} BEFORE
+Dialogue: 0,0:00:01.05,0:00:01.27,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} I
+Dialogue: 0,0:00:01.27,0:00:01.49,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} ACTUALLY
+Dialogue: 0,0:00:01.49,0:00:01.65,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} GOT
+Dialogue: 0,0:00:01.65,0:00:01.91,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} AROUND
+Dialogue: 0,0:00:01.91,0:00:02.29,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} TO
+Dialogue: 0,0:00:02.29,0:00:02.95,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} BUILDING
+Dialogue: 0,0:00:02.95,0:00:03.17,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THE
+Dialogue: 0,0:00:03.17,0:00:03.37,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} FIRST
+Dialogue: 0,0:00:03.37,0:00:03.81,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} VERSION
+Dialogue: 0,0:00:03.81,0:00:03.99,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} OF
+Dialogue: 0,0:00:03.99,0:00:04.51,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} FACEBOOK
+Dialogue: 0,0:00:04.51,0:00:04.85,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THAT
+Dialogue: 0,0:00:04.85,0:00:05.09,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} KIND
+Dialogue: 0,0:00:05.09,0:00:05.21,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} OF
+Dialogue: 0,0:00:05.21,0:00:05.39,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} ADDED
+Dialogue: 0,0:00:05.39,0:00:05.55,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} A
+Dialogue: 0,0:00:05.55,0:00:05.67,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} LOT
+Dialogue: 0,0:00:05.67,0:00:05.77,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} OF
+Dialogue: 0,0:00:05.77,0:00:05.89,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THESE
+Dialogue: 0,0:00:05.89,0:00:06.05,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THINGS
+Dialogue: 0,0:00:06.05,0:00:06.47,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} TOGETHER.
+Dialogue: 0,0:00:06.85,0:00:07.25,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} DID
+Dialogue: 0,0:00:07.25,0:00:07.37,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} YOU
+Dialogue: 0,0:00:07.37,0:00:07.57,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THINK
+Dialogue: 0,0:00:07.57,0:00:07.85,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} FACEBOOK
+Dialogue: 0,0:00:07.85,0:00:08.07,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WAS
+Dialogue: 0,0:00:08.07,0:00:08.19,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} GOING
+Dialogue: 0,0:00:08.19,0:00:08.19,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} TO
+Dialogue: 0,0:00:08.19,0:00:08.31,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} BE
+Dialogue: 0,0:00:08.31,0:00:08.35,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} A
+Dialogue: 0,0:00:08.35,0:00:08.57,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} COMPANY
+Dialogue: 0,0:00:08.57,0:00:08.77,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WHEN
+Dialogue: 0,0:00:08.77,0:00:08.89,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} YOU
+Dialogue: 0,0:00:08.89,0:00:09.11,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} STARTED?
+Dialogue: 0,0:00:09.59,0:00:09.87,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} I
+Dialogue: 0,0:00:09.87,0:00:10.15,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} BUILT
+Dialogue: 0,0:00:10.15,0:00:10.31,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THE
+Dialogue: 0,0:00:10.31,0:00:10.45,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} FIRST
+Dialogue: 0,0:00:10.45,0:00:10.75,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} VERSION
+Dialogue: 0,0:00:10.75,0:00:10.81,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} OF
+Dialogue: 0,0:00:10.81,0:00:11.13,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} FACEBOOK
+Dialogue: 0,0:00:11.13,0:00:11.55,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} BECAUSE
+Dialogue: 0,0:00:11.55,0:00:12.31,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} IT'S
+Dialogue: 0,0:00:12.31,0:00:12.57,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} SOMETHING
+Dialogue: 0,0:00:12.57,0:00:12.91,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THAT
+Dialogue: 0,0:00:12.91,0:00:13.51,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} MY
+Dialogue: 0,0:00:13.51,0:00:13.81,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} FRIENDS
+Dialogue: 0,0:00:13.81,0:00:13.97,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} AND
+Dialogue: 0,0:00:13.97,0:00:14.09,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} I
+Dialogue: 0,0:00:14.09,0:00:14.33,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WANTED
+Dialogue: 0,0:00:14.33,0:00:14.55,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} TO
+Dialogue: 0,0:00:14.55,0:00:14.97,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} USE
+Dialogue: 0,0:00:14.97,0:00:15.81,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} AT
+Dialogue: 0,0:00:15.81,0:00:16.13,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} HARVARD,
+Dialogue: 0,0:00:16.31,0:00:16.57,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} A
+Dialogue: 0,0:00:16.57,0:00:17.13,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} DIRECTORY
+Dialogue: 0,0:00:17.13,0:00:17.37,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} AND
+Dialogue: 0,0:00:17.37,0:00:17.49,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} A
+Dialogue: 0,0:00:17.49,0:00:17.71,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WAY
+Dialogue: 0,0:00:17.71,0:00:17.81,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} TO
+Dialogue: 0,0:00:17.81,0:00:18.05,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} CONNECT
+Dialogue: 0,0:00:18.05,0:00:18.31,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WITH
+Dialogue: 0,0:00:18.31,0:00:18.53,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THE
+Dialogue: 0,0:00:18.53,0:00:18.73,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} OTHER
+Dialogue: 0,0:00:18.73,0:00:19.07,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} PEOPLE
+Dialogue: 0,0:00:19.07,0:00:19.61,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} AROUND
+Dialogue: 0,0:00:19.61,0:00:19.91,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} US.
+Dialogue: 0,0:00:19.91,0:00:20.05,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} AND
+Dialogue: 0,0:00:20.05,0:00:20.73,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} I
+Dialogue: 0,0:00:20.73,0:00:21.13,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} DIDN'T
+Dialogue: 0,0:00:21.13,0:00:21.29,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THINK
+Dialogue: 0,0:00:21.29,0:00:21.43,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} AT
+Dialogue: 0,0:00:21.43,0:00:21.57,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} ALL
+Dialogue: 0,0:00:21.57,0:00:21.73,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THAT
+Dialogue: 0,0:00:21.73,0:00:21.79,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} IT
+Dialogue: 0,0:00:21.79,0:00:21.87,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WAS
+Dialogue: 0,0:00:21.87,0:00:21.97,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} GOING
+Dialogue: 0,0:00:21.97,0:00:22.01,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} TO
+Dialogue: 0,0:00:22.01,0:00:22.09,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} BE
+Dialogue: 0,0:00:22.09,0:00:22.15,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} A
+Dialogue: 0,0:00:22.15,0:00:22.43,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} COMPANY.
+Dialogue: 0,0:00:22.57,0:00:22.59,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} I
+Dialogue: 0,0:00:22.59,0:00:22.99,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} REMEMBER
+Dialogue: 0,0:00:22.99,0:00:23.19,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} VERY
+Dialogue: 0,0:00:23.19,0:00:23.83,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} SPECIFICALLY
+Dialogue: 0,0:00:23.83,0:00:24.87,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THE
+Dialogue: 0,0:00:24.87,0:00:25.09,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} NIGHT
+Dialogue: 0,0:00:25.09,0:00:25.51,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THAT
+Dialogue: 0,0:00:25.51,0:00:26.33,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WE
+Dialogue: 0,0:00:26.33,0:00:26.85,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} LAUNCHED
+Dialogue: 0,0:00:26.85,0:00:27.81,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} THE
+Dialogue: 0,0:00:27.81,0:00:28.25,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} FIRST
+Dialogue: 0,0:00:28.25,0:00:28.63,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} VERSION.
+Dialogue: 0,0:00:28.81,0:00:28.89,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} I
+Dialogue: 0,0:00:28.89,0:00:29.09,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WENT
+Dialogue: 0,0:00:29.09,0:00:29.25,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} OUT
+Dialogue: 0,0:00:29.25,0:00:29.49,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} TO
+Dialogue: 0,0:00:29.49,0:00:30.63,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} GET
+Dialogue: 0,0:00:30.63,0:00:31.17,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} PIZZA
+Dialogue: 0,0:00:31.17,0:00:31.65,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WITH
+Dialogue: 0,0:00:31.65,0:00:32.87,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} A
+Dialogue: 0,0:00:32.87,0:00:33.13,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} COUPLE
+Dialogue: 0,0:00:33.13,0:00:33.21,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} OF
+Dialogue: 0,0:00:33.21,0:00:33.31,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} MY
+Dialogue: 0,0:00:33.31,0:00:33.75,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} FRIENDS
+Dialogue: 0,0:00:33.75,0:00:34.03,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WHO
+Dialogue: 0,0:00:34.03,0:00:35.45,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} NOW
+Dialogue: 0,0:00:35.45,0:00:35.71,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WORK
+Dialogue: 0,0:00:35.71,0:00:35.85,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} HERE.
+Dialogue: 0,0:00:36.59,0:00:36.79,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} AND,
+Dialogue: 0,0:00:36.89,0:00:37.55,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} YOU
+Dialogue: 0,0:00:37.55,0:00:37.65,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} KNOW,
+Dialogue: 0,0:00:37.75,0:00:37.83,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} AND
+Dialogue: 0,0:00:37.83,0:00:38.79,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} I
+Dialogue: 0,0:00:38.79,0:00:39.07,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} REMEMBER
+Dialogue: 0,0:00:39.07,0:00:39.35,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} REALLY
+Dialogue: 0,0:00:39.35,0:00:39.67,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} CLEARLY
+Dialogue: 0,0:00:39.67,0:00:39.83,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WE
+Dialogue: 0,0:00:39.83,0:00:39.85,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} WERE
+Dialogue: 0,0:00:39.85,0:00:40.11,Default,,0,0,0,,{\an5\pos(304,740)\fs40\t(0,120,\fs64)} TALKING

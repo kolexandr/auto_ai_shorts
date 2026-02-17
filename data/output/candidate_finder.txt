@@ -1,0 +1,69 @@
+Total words extracted: 5259
+Candidate length: 50s, Overlap: 0.5
+Step size: 25.0s
+
+Processing candidates:
+Candidate 0: Time 0.46-50.46s, Words: 148
+Candidate 1: Time 25.46-75.46s, Words: 148
+Candidate 2: Time 50.46-100.46s, Words: 182
+Candidate 3: Time 75.46-125.46s, Words: 187
+Candidate 4: Time 100.46-150.46s, Words: 179
+Candidate 5: Time 125.46-175.46s, Words: 161
+Candidate 6: Time 150.46-200.46s, Words: 163
+Candidate 7: Time 175.46-225.46s, Words: 157
+Candidate 8: Time 200.46-250.46s, Words: 160
+Candidate 9: Time 225.46-275.46s, Words: 184
+Candidate 10: Time 250.46-300.46s, Words: 171
+Candidate 11: Time 275.46-325.46s, Words: 183
+Candidate 12: Time 300.46-350.46s, Words: 194
+Candidate 13: Time 325.46-375.46s, Words: 154
+Candidate 14: Time 350.46-400.46s, Words: 138
+Candidate 15: Time 375.46-425.46s, Words: 147
+Candidate 16: Time 400.46-450.46s, Words: 176
+Candidate 17: Time 425.46-475.46s, Words: 203
+Candidate 18: Time 450.46-500.46s, Words: 189
+Candidate 19: Time 475.46-525.46s, Words: 174
+Candidate 20: Time 500.46-550.46s, Words: 179
+Candidate 21: Time 525.46-575.46s, Words: 202
+Candidate 22: Time 550.46-600.46s, Words: 195
+Candidate 23: Time 575.46-625.46s, Words: 157
+Candidate 24: Time 600.46-650.46s, Words: 144
+Candidate 25: Time 625.46-675.46s, Words: 146
+Candidate 26: Time 650.46-700.46s, Words: 158
+Candidate 27: Time 675.46-725.46s, Words: 173
+Candidate 28: Time 700.46-750.46s, Words: 159
+Candidate 29: Time 725.46-775.46s, Words: 159
+Candidate 30: Time 750.46-800.46s, Words: 169
+Candidate 31: Time 775.46-825.46s, Words: 171
+Candidate 32: Time 800.46-850.46s, Words: 179
+Candidate 33: Time 825.46-875.46s, Words: 192
+Candidate 34: Time 850.46-900.46s, Words: 188
+Candidate 35: Time 875.46-925.46s, Words: 178
+Candidate 36: Time 900.46-950.46s, Words: 178
+Candidate 37: Time 925.46-975.46s, Words: 163
+Candidate 38: Time 950.46-1000.46s, Words: 170
+Candidate 39: Time 975.46-1025.46s, Words: 176
+Candidate 40: Time 1000.46-1050.46s, Words: 164
+Candidate 41: Time 1025.46-1075.46s, Words: 163
+Candidate 42: Time 1050.46-1100.46s, Words: 181
+Candidate 43: Time 1075.46-1125.46s, Words: 179
+Candidate 44: Time 1100.46-1150.46s, Words: 176
+Candidate 45: Time 1125.46-1175.46s, Words: 192
+Candidate 46: Time 1150.46-1200.46s, Words: 175
+Candidate 47: Time 1175.46-1225.46s, Words: 159
+Candidate 48: Time 1200.46-1250.46s, Words: 155
+Candidate 49: Time 1225.46-1275.46s, Words: 165
+Candidate 50: Time 1250.46-1300.46s, Words: 171
+Candidate 51: Time 1275.46-1325.46s, Words: 182
+Candidate 52: Time 1300.46-1350.46s, Words: 172
+Candidate 53: Time 1325.46-1375.46s, Words: 180
+Candidate 54: Time 1350.46-1400.46s, Words: 181
+Candidate 55: Time 1375.46-1425.46s, Words: 172
+Candidate 56: Time 1400.46-1450.46s, Words: 211
+Candidate 57: Time 1425.46-1475.46s, Words: 187
+Candidate 58: Time 1450.46-1500.46s, Words: 145
+Candidate 59: Time 1475.46-1525.46s, Words: 159
+Candidate 60: Time 1500.46-1550.46s, Words: 85
+Skipped chunk at 1525.46s: only 0 words (need 100+)
+
+Total candidates found: 61
