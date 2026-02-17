@@ -1,5 +1,0 @@
-Transcript loaded successfully
-Found 61 candidates
-Ranked candidates: 38 successful, 23 failed
-Selected top 8 highlights from 38 ranked
-Saved 8 highlights to data\input\highlights.json
