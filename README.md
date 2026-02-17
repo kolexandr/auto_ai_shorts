@@ -70,9 +70,9 @@ python main.py [youtube_link]
 
 ## The tool will:
 
--Extract transcript
--Process content
--Generate short-form videos 9:16 output with related and animated captions
+- Extract transcript
+- Process content
+- Generate short-form videos 9:16 output with related and animated captions
 
 
 ## 🎯 Project Goal
